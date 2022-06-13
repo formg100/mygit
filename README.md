@@ -1,4 +1,4 @@
-# 通过做任务学习编程序 finishi task for study 
+# 通过做任务学习编程序 learn to program by doing task
 
 1基金收益计算  
 2网页自动打印成pdf   
